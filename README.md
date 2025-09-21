@@ -81,8 +81,10 @@ The dashboard delivers the following actionable insights:
 
 
   - **Screenshots**:
-  - ![Desktop Sales Overview]()
-  - ![Desktop Profit Overview]()
+  - ![Desktop Sales Overview](https://github.com/paridhisingh18/tailwind-traders-executive-dashboard-excel-powerbi/blob/main/Dashboard%20Snapshots/Sales%20Overview.png
+)
+  - ![Desktop Profit Overview](https://github.com/paridhisingh18/tailwind-traders-executive-dashboard-excel-powerbi/blob/main/Dashboard%20Snapshots/Profit%20Overview.png
+)
 
 ## Mobile Layout
 - **Cards and KPI**:
@@ -95,7 +97,7 @@ The dashboard delivers the following actionable insights:
 
 
   - **Screenshot**:
-  - ![Mobile View]()
+  - ![Mobile View](https://github.com/paridhisingh18/tailwind-traders-executive-dashboard-excel-powerbi/blob/main/Dashboard%20Snapshots/Mobile%20Layout.png)
 
 ## Contributing
 - **Suggestions**: Submit issues or feature requests via GitHub Issues.
